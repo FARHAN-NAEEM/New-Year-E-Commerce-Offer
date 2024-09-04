@@ -18,27 +18,70 @@
     margin-top: 100px;
     margin-bottom: 80px;
 }
-.sixty-five-percent-off h1{
+
+.sixty-five-percent-off h1 {
     font-size: 100px;
     color: red;
     margin-bottom: 10px;
 }
 
-.sixty-five-percent-off h3{
+.sixty-five-percent-off h3 {
     font-size: 30px;
     color: red;
     margin-top: 5px;
 }
 
-.sixty-five-percent-off h2{
+.sixty-five-percent-off h2 {
     font-size: 60px;
     color: rgb(7, 230, 238);
     margin-top: 5px;
     margin-bottom: 10px;
 }
 
-
-
-
-
 /* 65% OFF Area End */
+
+/* welcome-to-midnight-party Start */
+.welcome-to-midnight-party {
+    background-image: url("resources/welcome-to-midnight-party.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 600px;
+}
+
+.welcome-to-midnight-party{
+    padding: 15px 310px 0px 310px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.welcome-to-midnight-party h1{
+    color: beige;
+    font-size: 85px;
+    line-height: 30px;
+}
+
+.welcome-to-midnight-party p{
+    color: rgb(162, 187, 187);
+    font-size: 18px;
+}
+
+.btn-join-now{
+    text-decoration: none;
+    border-radius: 5px;
+    border: 0;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    /* White Color */
+    color: #FFFFFF;
+   
+
+    
+}
+
+
+
+/* welcome-to-midnight-party End */
