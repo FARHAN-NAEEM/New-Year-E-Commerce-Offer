@@ -77,11 +77,40 @@
     line-height: 27px;
     /* White Color */
     color: #FFFFFF;
-   
-
+    margin-bottom: 60px;
     
 }
 
-
-
 /* welcome-to-midnight-party End */
+
+/*New Park Hotel Area Start */
+
+.New-Park-Hotel-Area{
+    text-align: center;
+    font-size: 30px;
+    line-height: 30px;
+    background-color: rgb(255, 234, 234); 
+    margin: 10px 280px;
+    padding-top: 30px;
+    padding-bottom: 80px;
+    border-radius: 10px;
+}
+
+.party-details{
+    color: red;
+}
+/* New Park Hotel Area End */
+
+.second-join-button{
+    background: #ec0493;
+    border-radius: 5px;
+    border: 0;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    /* White Color */
+    color: #FFFFFF;
+    padding: 16px 35px;
+}
