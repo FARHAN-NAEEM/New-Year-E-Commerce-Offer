@@ -1,0 +1,44 @@
+/* Happy New Year Area Start */
+.happy-new-year {
+    text-align: center;
+    color: rgb(57, 231, 231);
+    font-size: 35px;
+
+    background-image: url("resources/elephant.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 600px;
+}
+
+/* Happy New Year Area End */
+
+/* 65% OFF Area Start */
+.sixty-five-percent-off {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 80px;
+}
+.sixty-five-percent-off h1{
+    font-size: 100px;
+    color: red;
+    margin-bottom: 10px;
+}
+
+.sixty-five-percent-off h3{
+    font-size: 30px;
+    color: red;
+    margin-top: 5px;
+}
+
+.sixty-five-percent-off h2{
+    font-size: 60px;
+    color: rgb(7, 230, 238);
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+/* 65% OFF Area End */
