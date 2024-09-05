@@ -92,14 +92,13 @@
     background-color: rgb(255, 234, 234); 
     margin: 10px 280px;
     padding-top: 30px;
-    padding-bottom: 80px;
+    padding-bottom: 120px;
     border-radius: 10px;
 }
 
 .party-details{
     color: red;
 }
-/* New Park Hotel Area End */
 
 .second-join-button{
     background: #ec0493;
@@ -114,3 +113,96 @@
     color: #FFFFFF;
     padding: 16px 35px;
 }
+/* New Park Hotel Area End */
+
+/* New-Best-Offer-Coming-Soon Start */
+
+.New-Best-Offer-Coming-Soon{
+    display:flex;
+    margin: 190px 280px 30px 280px;
+    justify-content:space-around;
+}
+
+.coming-soon{
+    line-height: 15px;
+    margin-right: 50px;
+    
+    
+    
+}
+
+.coming-soon h3{
+    color: #e71717;
+    font-size: 30px;
+}
+
+.coming-soon h1{
+    font-size: 60px;
+}
+
+.coming-soon p{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.new-year-festival{
+    border-radius: 70%;
+    border: 15px solid #e71717;
+    
+    /* position:absolute; */
+}
+
+.twenty2024{
+    margin-left: 50px;
+    
+}
+
+
+/* New-Best-Offer-Coming-Soon End */
+
+/* twenty2024 Start */
+
+.twenty2024 h1{
+    color: #e71717;
+    font-size: 35px;
+    line-height: 10px;
+}
+
+.twenty2024 p{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* holidays-sale start */
+.holidays-sale{
+    margin-top: 150px;
+    line-height: 20px;
+}
+.holidays-sale-text{
+    text-align: center;
+    margin-left: 280px;
+    margin-right: 280px;
+}
+
+.red-holidays{
+    color: #e71717;
+}
+
+.holidays-sale-text h3{
+    font-weight: 160px;
+    font-size: 30px;
+    font-style: bold;
+}
+
+.holidays-sale-text h1{
+    font-weight: 160px;
+    font-size: 80px;
+
+}
+
+.holidays-sale-text p{
+    font-style: bold;
+    font-size: 25px;
+    text-align: justify;
+}
+/* holidays-sale start */
