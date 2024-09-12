@@ -48,7 +48,7 @@
     height: 600px;
 }
 
-.welcome-to-midnight-party{
+.welcome-to-midnight-party {
     padding: 15px 310px 0px 310px;
     display: flex;
     align-items: center;
@@ -56,18 +56,18 @@
 }
 
 
-.welcome-to-midnight-party h1{
+.welcome-to-midnight-party h1 {
     color: beige;
     font-size: 85px;
     line-height: 30px;
 }
 
-.welcome-to-midnight-party p{
+.welcome-to-midnight-party p {
     color: rgb(162, 187, 187);
     font-size: 18px;
 }
 
-.btn-join-now{
+.btn-join-now {
     text-decoration: none;
     border-radius: 5px;
     border: 0;
@@ -78,29 +78,29 @@
     /* White Color */
     color: #FFFFFF;
     margin-bottom: 60px;
-    
+
 }
 
 /* welcome-to-midnight-party End */
 
 /*New Park Hotel Area Start */
 
-.New-Park-Hotel-Area{
+.New-Park-Hotel-Area {
     text-align: center;
     font-size: 30px;
     line-height: 30px;
-    background-color: rgb(255, 234, 234); 
+    background-color: rgb(255, 234, 234);
     margin: 10px 280px;
     padding-top: 30px;
     padding-bottom: 120px;
     border-radius: 10px;
 }
 
-.party-details{
+.party-details {
     color: red;
 }
 
-.second-join-button{
+.second-join-button {
     background: #ec0493;
     border-radius: 5px;
     border: 0;
@@ -113,48 +113,49 @@
     color: #FFFFFF;
     padding: 16px 35px;
 }
+
 /* New Park Hotel Area End */
 
 /* New-Best-Offer-Coming-Soon Start */
 
-.New-Best-Offer-Coming-Soon{
-    display:flex;
+.New-Best-Offer-Coming-Soon {
+    display: flex;
     margin: 190px 280px 30px 280px;
-    justify-content:space-around;
+    justify-content: space-around;
 }
 
-.coming-soon{
+.coming-soon {
     line-height: 15px;
     margin-right: 50px;
-    
-    
-    
+
+
+
 }
 
-.coming-soon h3{
+.coming-soon h3 {
     color: #e71717;
     font-size: 30px;
 }
 
-.coming-soon h1{
+.coming-soon h1 {
     font-size: 60px;
 }
 
-.coming-soon p{
+.coming-soon p {
     font-weight: bold;
     font-size: 20px;
 }
 
-.new-year-festival{
+.new-year-festival {
     border-radius: 70%;
     border: 15px solid #e71717;
-    
+
     /* position:absolute; */
 }
 
-.twenty2024{
+.twenty2024 {
     margin-left: 50px;
-    
+
 }
 
 
@@ -162,47 +163,97 @@
 
 /* twenty2024 Start */
 
-.twenty2024 h1{
+.twenty2024 h1 {
     color: #e71717;
     font-size: 35px;
     line-height: 10px;
 }
 
-.twenty2024 p{
+.twenty2024 p {
     font-size: 20px;
     font-weight: bold;
 }
 
 /* holidays-sale start */
-.holidays-sale{
+.holidays-sale {
     margin-top: 150px;
     line-height: 20px;
 }
-.holidays-sale-text{
+
+.holidays-sale-text {
     text-align: center;
     margin-left: 280px;
     margin-right: 280px;
+   
 }
 
-.red-holidays{
+.red-holidays {
     color: #e71717;
 }
 
-.holidays-sale-text h3{
+.holidays-sale-text h3 {
     font-weight: 160px;
     font-size: 30px;
     font-style: bold;
 }
 
-.holidays-sale-text h1{
+.holidays-sale-text h1 {
     font-weight: 160px;
     font-size: 80px;
 
 }
 
-.holidays-sale-text p{
+.holidays-sale-text p {
     font-style: bold;
     font-size: 25px;
     text-align: justify;
+    
 }
-/* holidays-sale start */
+
+/* -------------------------------------------- */
+.red-lady {
+    /* Group 83 */
+
+    position: absolute;
+    width: 449px;
+    height: 433px;
+    left: 1158.56px;
+    top: 3765px;
+}
+
+.holidayImage {
+    display: flex;
+    /* background-image: url("resources/Holidays03.png"); */
+    background-repeat: no-repeat;
+    margin: 400px 280px 0px 280px;
+}
+
+.discount-logo {
+
+    position: absolute;
+    width: 220.05px;
+    height: 220.05px;
+    left: 1080.56px;
+    top: 3900px;
+
+    transform: rotate(-34.21deg);
+}
+
+.discount-bucket {
+    position: absolute;
+    width: 674.82px;
+    height: 577.96px;
+    left: 200.83px;
+    top: 3925px;
+}
+
+
+
+
+
+
+
+
+}
+
+/* holidays-sale End */
